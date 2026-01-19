@@ -1,4 +1,4 @@
-🐍 Snake Game – Version 1.0.0
+# 🐍 Snake Game – Version 1.0.0
 
 Overview
 Snake Game (v1.0.0) is a modern and visually enhanced version of the classic arcade snake game, built entirely in Python.
@@ -8,7 +8,7 @@ It represents not only the beginning of a programming journey but also the curio
 The game uses the turtle graphics library for visuals and integrates pygame for background music and sound effects, making it both nostalgic and engaging.
 It combines simplicity with a polished design to give players a fun and complete gaming experience.
 
-🎮 About the Game
+# 🎮 About the Game
 
 The Snake Game follows the timeless arcade concept — control the snake to eat food appearing randomly on the screen and grow in size, while avoiding collisions with walls or your own body.
 Every bite increases your score and speed, making the game progressively challenging.
@@ -16,7 +16,7 @@ Every bite increases your score and speed, making the game progressively challen
 The game also includes smooth background music, a start/pause menu, and clear visual feedback, making it much more refined than traditional console-based snake versions.
 It’s a great blend of logic, timing, and reflexes — ideal for quick fun and casual coding demonstration.
 
-🧩 Features
+# 🧩 Features
 
 Interactive Main Menu – Start, Resume, Pause, or Quit with ease.
 
@@ -32,7 +32,7 @@ Executable Support – Runs as a .exe file using PyInstaller.
 
 Clean UI Design – Simple, distraction-free, and enjoyable for all ages.
 
-🕹️ Controls
+# 🕹️ Controls
 
 W → Move Up
 
@@ -48,7 +48,7 @@ Q → Quit Game
 
 These easy-to-remember controls make the game highly accessible and smooth to play.
 
-🧱 Game Mechanics
+# 🧱 Game Mechanics
 
 At launch, the snake appears at the center of the screen.
 Randomly placed food items encourage the player to move strategically and grow the snake.
@@ -57,7 +57,7 @@ Each piece of food adds 10 points to the score and slightly increases speed, rai
 If the snake collides with a wall or itself, a collision sound plays, and the game resets while preserving the high score.
 Players can pause anytime using the P key and resume whenever they wish.
 
-🧠 Technical Details
+# 🧠 Technical Details
 
 Programming Language: Python 3.12
 
@@ -73,7 +73,7 @@ Version: 1.0.0
 
 The game is lightweight and works seamlessly on almost any Windows system without requiring heavy resources or installations.
 
-🧑‍💻 About the Developer
+# 🧑‍💻 About the Developer
 
 This game was designed and developed by Varun Kumar in 2022, during his final months of high school.
 Back then, Varun was deeply curious about how games work — which led him to explore Python graphics and event handling.
@@ -82,7 +82,7 @@ Creating this Snake Game was one of his earliest projects that blended logic, de
 Now a passionate developer and student of the University of Delhi, Varun continues to work on more advanced software projects, including AI systems, automation tools, and full-fledged applications.
 This game remains a nostalgic reminder of where the journey began.
 
-📂 Project Structure
+# 📂 Project Structure
 
 The main project folder includes:
 
@@ -100,7 +100,7 @@ dist/SnakeGames.exe – Final compiled game executable.
 
 All components work together to deliver a smooth and cohesive gaming experience.
 
-⚙️ How to Run or Build
+# ⚙️ How to Run or Build
 
 To play the game, ensure you have Python 3.12 and required libraries installed.
 
@@ -122,7 +122,7 @@ python -m PyInstaller --onefile --noconsole --icon="SnakeIcon.ico" "SnakeGames.p
 
 After building, open the dist folder to find your .exe file and play instantly.
 
-🏆 Future Enhancements (Planned for v1.1.0)
+# 🏆 Future Enhancements (Planned for v1.1.0)
 
 Save and Load High Score System
 
@@ -138,14 +138,14 @@ Volume and Music Control Options
 
 These additions will bring new layers of engagement and personalization to future releases.
 
-💬 Feedback
+# 💬 Feedback
 
 If you enjoyed playing the game or found it interesting from a development perspective, feel free to share your feedback or suggestions.
 You can open an issue or leave a comment on GitHub — every piece of input helps in making the next version even better.
 
 Don’t forget to ⭐ star the repository if you liked this project — it truly motivates continued work and updates.
 
-🐍 Developed and Designed with ❤️ by Varun Kumar
+# 🐍 Developed and Designed with ❤️ by Varun Kumar
 
 Version: 1.0.0
 Created: 2022 (During 12th Grade)

@@ -182,6 +182,9 @@ Don’t forget to ⭐ star the repository if you liked this project — it truly
 # 🐍 Developed and Designed with ❤️ by Varun Kumar
 
 Version: 1.0.0
+
 Created: 2022 (During 12th Grade)
+
 Institution: University of Delhi
+
 Language: Python

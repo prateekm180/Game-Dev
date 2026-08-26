@@ -75,7 +75,7 @@ The game is lightweight and works seamlessly on almost any Windows system withou
 
 This game was designed and developed by Varun Kumar in 2022, during his final months of high school.
 Back then, Varun was deeply curious about how games work — which led him to explore Python graphics and event handling.
-Creating this Snake Game was one of his earliest projects that blended logic, design, and creativity.
+Creating this Pacman Game was one of his earliest projects that blended logic, design, and creativity.
 
 Now a passionate developer and student of the University of Delhi, Varun continues to work on more advanced software projects, including AI systems, automation tools, and full-fledged applications.
 This game remains a nostalgic reminder of where the journey began.

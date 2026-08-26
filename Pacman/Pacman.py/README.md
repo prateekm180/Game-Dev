@@ -61,7 +61,7 @@ Players can pause anytime using the P key and resume whenever they wish.
 
 Programming Language: Python 3.12
 
-Libraries: Turtle, Pygame, Tkinter
+Libraries: pygame, numpy, maths, random, sys 
 
 Executable Builder: PyInstaller
 

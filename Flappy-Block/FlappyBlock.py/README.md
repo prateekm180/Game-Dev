@@ -17,11 +17,17 @@ This project demonstrates how you can turn a few lines of logic and creativity i
 # Features
 
 🐥 Smooth Bird Physics – Realistic gravity and upward thrust motion
+
 🌳 Randomized Pipes – Every run feels fresh and unpredictable
+
 💥 Accurate Collision Detection – Detects pipe and wall contact precisely
+
 🔁 Restart & Quit Options – Press R to restart or Q to quit cleanly
+
 🎯 Dynamic Scoring System – Displays live score and final results
+
 🕹️ Start & Game Over Screens – Adds polish and flow to the gameplay
+
 🎨 Clean UI – Simple visuals and pleasing color contrast for all ages
 
 
@@ -29,7 +35,9 @@ This project demonstrates how you can turn a few lines of logic and creativity i
 
 Key	Action
 SPACE	Flap / Jump
+
 R	Restart after Game Over
+
 Q	Quit the Game
 
 
@@ -46,10 +54,13 @@ This smooth, loop-based gameplay offers instant feedback — ideal for both casu
 # Technical Details
 
 Component	Description
-Programming Language	Python 3.12
-Graphics Library	Turtle
-Sound Support (optional)	Pygame (for future versions)
-Platform	Windows
+
+Programming Language: Python 3.12
+
+Libraries: turtle, pygame
+
+Platform: Windows
+
 Version	1.0.0
 
 The game is lightweight, portable, and runs smoothly on almost any system with Python installed.
@@ -147,7 +158,9 @@ Every piece of feedback helps improve future releases and motivates continued de
 🐥 Developed and Designed with ❤️ by Varun Kumar
 
 Version: 1.0.0
+
 Created: 2022
+
 Institution: University of Delhi
+
 Language: Python
-Graphics: Turtle
